@@ -56,7 +56,7 @@ EmployeeDatabase.db # Auto-generated SQLite database for storing user login info
 
 1. Clone the repository
 
-git clone https://github.com/yourusername/library-management.git
+git clone [ https://github.com/yourusername/library-management.git](https://github.com/ghazal-ansari/Library-Managemen)
 cd library-management
 
 2. Run the program
